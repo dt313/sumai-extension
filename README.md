@@ -11,7 +11,7 @@
     <strong>Sumai</strong> is a browser extension that helps users summarize, translate, and explain selected text using AI (LLM models) directly in the browser.
     <br />
     <br />
-    <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">View Demo Video</a>
+    
   </p>
 </div>
 
@@ -19,11 +19,12 @@
 
 ## 📀 Intro Video
 
+<a href="https://www.youtube.com/watch?v=aLUnQn8jccM">
 <p align="center">
-  <video width="560" height="315" controls>
-    <source src="./public/intro.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+<img src="./public/banner1.png">
+</p>
+</a>
+
 </p>
 
 ## 🖼️ Screenshots
