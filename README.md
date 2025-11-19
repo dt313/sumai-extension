@@ -57,12 +57,41 @@
 - TypeScript
 - TailwindCSS
 
-### How to instal
+### How to instal in local
+
+#### 1️⃣ Using GitHub Repository
 
 ```bash
-git clone https://github.com/tnguyen-dev/sumai.git
+git clone https://github.com/dt313/sumai-extension
 
 cd sumai-extension
 
-
 ```
+
+#### 2️⃣ Using the ZIP file
+
+- Unzip sumai.zip to `sumai` folder
+
+---
+
+#### 3️⃣ Load the Extension in Chrome
+
+- Open Chrome and go to `chrome://extensions/`
+- Enable **Developer mode** (top-right corner)
+- Click **Load unpacked** and select the `sumai` folder
+- Go to **Detail** and **Pin to toolbar**
+- The Sumai icon should appear in your toolbar
+
+---
+
+#### 4️⃣ Configure the Extension
+
+- Click the **Sumai icon** in the toolbar
+- Enter your **SSU API key** (Get SSU key at [SSU Developer](https://ssu.factchat.bot/dashboard/developers))
+- Set your preferred **language**
+
+---
+
+#### 5️⃣ Using Sumai
+
+- Select text on any webpage and the Sumai buttons will appear for quick actions
