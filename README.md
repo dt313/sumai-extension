@@ -72,6 +72,13 @@ cd sumai-extension
 
 - Unzip sumai.zip to `sumai` folder
 
+```bash
+Mac
+unzip sumai.zip
+Window
+tar -xf sumai.zip
+```
+
 ---
 
 #### 3️⃣ Load the Extension in Chrome
